@@ -111,10 +111,10 @@ Este repositorio contiene la resolución de los cuatro desafíos propuestos en l
 
 ### Enlaces a notebooks
 
-* Desafío 1: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/Desafio1\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio1_Pablo_Menardi.ipynb)
-* Desafío 2: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/Desafio2\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio2_Pablo_Menardi.ipynb)
-* Desafío 3: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/Desafio3\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio3_Pablo_Menardi.ipynb)
-* Desafío 4: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/Desafio4\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio4_Pablo_Menardi.ipynb)
+* Desafío 1: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/desafios/Desafio1\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio1_Pablo_Menardi.ipynb)
+* Desafío 2: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/desafios/Desafio2\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio2_Pablo_Menardi.ipynb)
+* Desafío 3: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/desafios/Desafio3\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio3_Pablo_Menardi.ipynb)
+* Desafío 4: [https://github.com/pabmena/procesamiento\_lenguaje\_natural/blob/main/desafios/Desafio4\_Pablo\_Menardi.ipynb](https://github.com/pabmena/procesamiento_lenguaje_natural/blob/main/Desafio4_Pablo_Menardi.ipynb)
 
 ---
 
